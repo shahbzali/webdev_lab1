@@ -1,2 +1,2 @@
 # webdev_lab1
-creating test repo for DEMO
+for my Lab1 assignment
